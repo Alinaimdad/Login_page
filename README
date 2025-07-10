@@ -1,0 +1,56 @@
+🌟 **ReactJS Login Page**
+This project is a modern and responsive login page created using ReactJS. It demonstrates the use of reusable components, form handling, and icons for a clean and professional user interface.
+
+✨ **Features**
+📄 Input Fields – For username and password
+
+🔒 React Icons – User and lock icons added with react-icons
+
+✅ "Remember me" Checkbox – For user convenience
+
+🔁 Forgot Password & Register Links
+
+🎨 Custom CSS Styling – Responsive and visually appealing layout
+
+💻 Tech Stack Used
+⚛️ ReactJS – For component-based UI
+
+🎨 CSS – For styling
+
+🧩 React Icons – For adding visual icons (user & lock)
+
+🚀 How to Run the Project
+Make sure you have Node.js and npm installed.
+
+**Clone the Repository:**
+
+bash
+git clone https://github.com/Alinaimdad/Login-page.git
+
+**Navigate to the Project Folder:**
+
+bash
+cd Login-page
+
+**Install Dependencies:**
+
+bash
+npm install
+
+**Run the App Locally:**
+
+bash
+npm run dev
+📸 **Preview**
+
+
+
+
+
+
+
+
+
+
+
+
