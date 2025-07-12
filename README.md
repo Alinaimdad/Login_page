@@ -1,12 +1,47 @@
-# React + Vite
+# 🔐 Login Page – ReactJS + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a sleek and responsive **Login Page** built using **ReactJS** and **Tailwind CSS**. It features a modern design, clean layout, and mobile responsiveness — ideal for authentication pages in modern web applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+Here are screenshots of the login page:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Login Page Preview](./src/component/assets/login_page%20preview.png)  
+![Responsive View](./src/component/assets/login_page2%20preview.png)
+
+---
+
+## 🚀 Features
+
+- 🎨 Clean and minimal UI
+- 📱 Fully responsive design
+- ⚛️ Built with ReactJS (component-based)
+- 🌈 Styled using Tailwind CSS utility classes
+- ✅ Input fields with proper spacing and alignment
+
+---
+
+## 🛠️ Technologies Used
+
+- [ReactJS](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/) (optional if used for setup)
+
+---
+
+## 📦 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/Alinaimdad/Login_page.git
+
+# Navigate to the project folder
+cd Login_page
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
